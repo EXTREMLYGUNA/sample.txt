@@ -1,4 +1,8 @@
-HII
-I AM GUNA
-THIS IS MY NEW COMMENTS
-now almost done this today
+GITHUB PROCESS
+	Git init
+	Git add .
+	Git status
+	Git commit -m “my first commit”
+	Git status
+	Git remote add origin URL
+	Git push -u origin master
